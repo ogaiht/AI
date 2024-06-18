@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qDjUq1dRCR5lhuICslxU7hQDyabWs2MYRAtXD0NGNUbJ7BbT8svVCNOs5io/sFwbW5pFz8uqORtGUXiICkYOXA==",
+  "success": true,
+  "projectFilePath": "\\\\wsl.localhost\\Ubuntu\\home\\thiago\\projects\\ai\\backend\\Ollama\\CrhomaDb.Net\\ChromaDb.Net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

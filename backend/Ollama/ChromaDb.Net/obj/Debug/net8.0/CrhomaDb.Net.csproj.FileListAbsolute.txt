@@ -1,0 +1,12 @@
+\\wsl.localhost\Ubuntu\home\thiago\projects\ai\backend\Ollama\CrhomaDb.Net\bin\Debug\net8.0\CrhomaDb.Net.deps.json
+\\wsl.localhost\Ubuntu\home\thiago\projects\ai\backend\Ollama\CrhomaDb.Net\bin\Debug\net8.0\CrhomaDb.Net.dll
+\\wsl.localhost\Ubuntu\home\thiago\projects\ai\backend\Ollama\CrhomaDb.Net\bin\Debug\net8.0\CrhomaDb.Net.pdb
+\\wsl.localhost\Ubuntu\home\thiago\projects\ai\backend\Ollama\CrhomaDb.Net\obj\Debug\net8.0\CrhomaDb.Net.csproj.AssemblyReference.cache
+\\wsl.localhost\Ubuntu\home\thiago\projects\ai\backend\Ollama\CrhomaDb.Net\obj\Debug\net8.0\CrhomaDb.Net.GeneratedMSBuildEditorConfig.editorconfig
+\\wsl.localhost\Ubuntu\home\thiago\projects\ai\backend\Ollama\CrhomaDb.Net\obj\Debug\net8.0\CrhomaDb.Net.AssemblyInfoInputs.cache
+\\wsl.localhost\Ubuntu\home\thiago\projects\ai\backend\Ollama\CrhomaDb.Net\obj\Debug\net8.0\CrhomaDb.Net.AssemblyInfo.cs
+\\wsl.localhost\Ubuntu\home\thiago\projects\ai\backend\Ollama\CrhomaDb.Net\obj\Debug\net8.0\CrhomaDb.Net.csproj.CoreCompileInputs.cache
+\\wsl.localhost\Ubuntu\home\thiago\projects\ai\backend\Ollama\CrhomaDb.Net\obj\Debug\net8.0\CrhomaDb.Net.dll
+\\wsl.localhost\Ubuntu\home\thiago\projects\ai\backend\Ollama\CrhomaDb.Net\obj\Debug\net8.0\refint\CrhomaDb.Net.dll
+\\wsl.localhost\Ubuntu\home\thiago\projects\ai\backend\Ollama\CrhomaDb.Net\obj\Debug\net8.0\CrhomaDb.Net.pdb
+\\wsl.localhost\Ubuntu\home\thiago\projects\ai\backend\Ollama\CrhomaDb.Net\obj\Debug\net8.0\ref\CrhomaDb.Net.dll
