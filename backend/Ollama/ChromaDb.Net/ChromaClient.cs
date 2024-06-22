@@ -37,7 +37,7 @@ namespace ChromaDb.Net
         public async Task<IChromaCollection> GetCollectionAsync(string name, string? tenant = null, string? database = null, IEmbeddingFunction? embeddingFunction = null, CancellationToken cancellationToken = default)
         {
             string uri = BuildUri(ApiRoutes.CollectionsURI, name, ("tenant", tenant), ("database", database));
-            HttpResponseMessage response = await _httpClient.GetAsync(uri);
+            HttpResponseMessage response = await _httpClient.GetAsync(uri, cancellationToken);
             response.EnsureSuccessStatusCode();
             string content = await response.Content.ReadAsStringAsync(cancellationToken);
             ChromaCollectionInfo? collection = JsonConvert.DeserializeObject<ChromaCollectionInfo>(content);
@@ -55,7 +55,7 @@ namespace ChromaDb.Net
 
         private static string BuildUri(string uri, string? id, params (string, string?)[] values)
         {
-            QueryStringBuilder sb = new QueryStringBuilder();
+            QueryStringBuilder sb = new();
             foreach ((string key, string? value) in values)
             {
                 if (!string.IsNullOrWhiteSpace(value))

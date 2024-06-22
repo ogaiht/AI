@@ -11,4 +11,11 @@
     <ProjectReference Include="..\ChromaDb.Net\ChromaDb.Net.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="LangChain.Databases.Chroma" Version="0.14.0" />
+    <PackageReference Include="LangChain.Providers.Ollama" Version="0.14.0" />
+    <PackageReference Include="LangChain.DocumentLoaders.Pdf" Version="0.14.0" />
+    <PackageReference Include="LangChain" Version="0.14.0" />
+  </ItemGroup>
+
 </Project>

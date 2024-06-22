@@ -1,0 +1,13 @@
+/Users/thiagodeoliveirasantos/Documents/Projects/AI/backend/Ollama/ChromaDb.Net/bin/Debug/net8.0/ChromaDb.Net.deps.json
+/Users/thiagodeoliveirasantos/Documents/Projects/AI/backend/Ollama/ChromaDb.Net/bin/Debug/net8.0/ChromaDb.Net.dll
+/Users/thiagodeoliveirasantos/Documents/Projects/AI/backend/Ollama/ChromaDb.Net/bin/Debug/net8.0/ChromaDb.Net.pdb
+/Users/thiagodeoliveirasantos/Documents/Projects/AI/backend/Ollama/ChromaDb.Net/obj/Debug/net8.0/ChromaDb.Net.csproj.AssemblyReference.cache
+/Users/thiagodeoliveirasantos/Documents/Projects/AI/backend/Ollama/ChromaDb.Net/obj/Debug/net8.0/ChromaDb.Net.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thiagodeoliveirasantos/Documents/Projects/AI/backend/Ollama/ChromaDb.Net/obj/Debug/net8.0/ChromaDb.Net.AssemblyInfoInputs.cache
+/Users/thiagodeoliveirasantos/Documents/Projects/AI/backend/Ollama/ChromaDb.Net/obj/Debug/net8.0/ChromaDb.Net.AssemblyInfo.cs
+/Users/thiagodeoliveirasantos/Documents/Projects/AI/backend/Ollama/ChromaDb.Net/obj/Debug/net8.0/ChromaDb.Net.csproj.CoreCompileInputs.cache
+/Users/thiagodeoliveirasantos/Documents/Projects/AI/backend/Ollama/ChromaDb.Net/obj/Debug/net8.0/ChromaDb.Net.sourcelink.json
+/Users/thiagodeoliveirasantos/Documents/Projects/AI/backend/Ollama/ChromaDb.Net/obj/Debug/net8.0/ChromaDb.Net.dll
+/Users/thiagodeoliveirasantos/Documents/Projects/AI/backend/Ollama/ChromaDb.Net/obj/Debug/net8.0/refint/ChromaDb.Net.dll
+/Users/thiagodeoliveirasantos/Documents/Projects/AI/backend/Ollama/ChromaDb.Net/obj/Debug/net8.0/ChromaDb.Net.pdb
+/Users/thiagodeoliveirasantos/Documents/Projects/AI/backend/Ollama/ChromaDb.Net/obj/Debug/net8.0/ref/ChromaDb.Net.dll

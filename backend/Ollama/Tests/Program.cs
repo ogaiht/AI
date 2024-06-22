@@ -1,7 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using ChromaDb.Net;
 using ChromaDb.Net.Embeddings.Ollama;
+using Tests;
 
+await OllamaTest.Test();
 
 
 OllamaEmbeddingFunction ollamaEmbeddingFunction = new OllamaEmbeddingFunction("http://localhost:11434", "mxbai-embed-large");
@@ -13,12 +15,14 @@ ChromaClient chromaClient = new ChromaClient("http://localhost:8000", ollamaEmbe
 
 IChromaCollection chromaCollection = await chromaClient.GetCollectionAsync("persons");
 
-QueryResult queryResult = await chromaCollection.QueryAsync("John");
-
 await chromaCollection.AddAsync(new CollectionItem[]
 {
     new CollectionItem("info1", "Hello, my name is John")
 });
+
+QueryResult queryResult = await chromaCollection.QueryAsync("John");
+
+
 
 
 
